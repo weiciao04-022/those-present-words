@@ -5,7 +5,7 @@
   --text: #343a40;
   --muted-text: #626b73;
   --annotation-bg: #fff7f2;
-  --annotation-line: #d65328;
+  --annotation-line: #8b1e24;
   --accent: #bd3027;
   --focus: #b52f25;
 }
@@ -17,4 +17,4 @@
 .article-title, .article-heading { color: #303431; }
 .article a { text-decoration-color: rgba(189, 48, 39, 0.45); }
 .article a:hover { text-decoration-color: currentColor; }
-.annotation-toggle:hover { background: #fff0e8; }
+.annotation-toggle:hover { background: #fbeef0; }
