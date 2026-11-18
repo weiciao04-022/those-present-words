@@ -18,3 +18,10 @@
 .article a { text-decoration-color: rgba(189, 48, 39, 0.45); }
 .article a:hover { text-decoration-color: currentColor; }
 .annotation-toggle:hover { background: #fbeef0; }
+
+/* University newspaper inspired sans-serif typography. */
+body {
+  font-family: "Open Sans", "Microsoft JhengHei", "微軟正黑體", "PingFang TC", sans-serif;
+  font-weight: 400;
+}
+.article-title, .article-heading { font-weight: 700; }
