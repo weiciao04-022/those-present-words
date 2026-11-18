@@ -1,0 +1,20 @@
+/* Article palette: white, charcoal, and warm red. Layout stays in style.css. */
+:root {
+  --page-bg: #ffffff;
+  --topbar-bg: rgba(255, 255, 255, 0.96);
+  --text: #343a40;
+  --muted-text: #626b73;
+  --annotation-bg: #fff7f2;
+  --annotation-line: #d65328;
+  --accent: #bd3027;
+  --focus: #b52f25;
+}
+.topbar { box-shadow: 0 3px 14px rgba(0, 0, 0, 0.10); }
+.site-logo { color: #bd3027; }
+.logo-subtitle { color: #626b73; }
+.home-button { color: #626b73; }
+.home-button:hover { color: var(--accent); }
+.article-title, .article-heading { color: #303431; }
+.article a { text-decoration-color: rgba(189, 48, 39, 0.45); }
+.article a:hover { text-decoration-color: currentColor; }
+.annotation-toggle:hover { background: #fff0e8; }
