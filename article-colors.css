@@ -24,4 +24,7 @@ body {
   font-family: "Open Sans", "Microsoft JhengHei", "微軟正黑體", "PingFang TC", sans-serif;
   font-weight: 400;
 }
-.article-title, .article-heading { font-weight: 700; }
+.article-title, .article-heading {
+  font-family: "PingFang TC", "Microsoft JhengHei", "微軟正黑體", "Noto Sans TC", "Heiti TC", sans-serif;
+  font-weight: 700;
+}
